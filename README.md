@@ -1,6 +1,6 @@
 # Simple Java Property Editor
 
-Java の `.properties` ファイルを、文字として読める状態で開いて保存する Windows アプリです。
+Java の `.properties` ファイルを、文字として読める状態で開いて保存する Windows アプリです。ソースコードはこのリポジトリにあります。ライセンスは MIT です。
 
 ## ダウンロード
 

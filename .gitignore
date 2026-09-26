@@ -1,0 +1,6 @@
+bin/
+obj/
+.vs/
+配布/
+*.user
+*.bk

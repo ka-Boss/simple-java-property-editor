@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PropertyEditor/PropertyEditor.csproj" />
+  <Project Path="PropertyEditor.Tests/PropertyEditor.Tests.csproj" />
+</Solution>
