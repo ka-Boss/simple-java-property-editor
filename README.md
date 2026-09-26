@@ -8,6 +8,8 @@ Java の `.properties` ファイルを、文字として読める状態で開い
 
 [Releases](../../releases) の `Simple Java Property Editor.exe` をダウンロードして、ダブルクリックしてください。
 
+Free code signing provided by SignPath.io, certificate by SignPath Foundation.
+
 ## できること
 
 - `.properties` を開く、上書き保存する、名前を付けて保存する
@@ -26,4 +28,4 @@ Java の `.properties` ファイルを、文字として読める状態で開い
 
 ## 起動時の注意
 
-この EXE にはコード署名がありません。初めて起動するとき、Windows が確認を出すことがあります。「詳細情報」から実行できます。
+署名済みの EXE を出すまでは、Windows が起動を止めることがあります。署名は SignPath Foundation の証明書で行います。
