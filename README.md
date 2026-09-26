@@ -29,3 +29,7 @@ Free code signing provided by SignPath.io, certificate by SignPath Foundation.
 ## 起動時の注意
 
 署名済みの EXE を出すまでは、Windows が起動を止めることがあります。署名は SignPath Foundation の証明書で行います。
+
+## ビルド
+
+EXE は GitHub Actions の `Build` ワークフローが作ります。`master` への push で、64 ビット Windows 向けの単一ファイルを出力します。
