@@ -29,7 +29,13 @@ jobs:
           -p:DebugSymbols=false
           -p:AssemblyName=SimpleJavaPropertyEditor
 
+      - name: Pack MSIX
+        shell: pwsh
+        run: ./packaging/pack-msix.ps1
+
       - uses: actions/upload-artifact@v4
         with:
           name: SimpleJavaPropertyEditor
-          path: publish/SimpleJavaPropertyEditor.exe
+          path: |
+            publish/SimpleJavaPropertyEditor.exe
+            packaging/SimpleJavaPropertyEditor.msix

@@ -6,9 +6,7 @@ Java の `.properties` ファイルを、文字として読める状態で開い
 
 64 ビット版の Windows で動きます。.NET のインストールは不要です。
 
-[Releases](../../releases) の `Simple Java Property Editor.exe` をダウンロードして、ダブルクリックしてください。
-
-Free code signing provided by SignPath.io, certificate by SignPath Foundation.
+入手は Microsoft Store を予定しています。ストア公開前のファイルは [Releases](../../releases) の `Simple Java Property Editor.exe` です。この EXE は未署名です。
 
 ## できること
 
@@ -28,7 +26,7 @@ Free code signing provided by SignPath.io, certificate by SignPath Foundation.
 
 ## 起動時の注意
 
-署名済みの EXE を出すまでは、Windows が起動を止めることがあります。署名は SignPath Foundation の証明書で行います。
+未署名の EXE は、Windows が起動を止めることがあります。署名付きで配るのは Microsoft Store の MSIX です。
 
 ## ビルド
 
