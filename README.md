@@ -30,4 +30,4 @@ Java の `.properties` ファイルを、文字として読める状態で開い
 
 ## ビルド
 
-EXE は GitHub Actions の `Build` ワークフローが作ります。`master` への push で、64 ビット Windows 向けの単一ファイルを出力します。
+EXE は GitHub Actions の `Build` ワークフローが作ります。`master` への push で、64 ビット Windows 向けの単一ファイルを出力します。MSIX も同じワークフローが作ります。
