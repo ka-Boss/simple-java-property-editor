@@ -8,6 +8,10 @@ Java の `.properties` ファイルを、文字として読める状態で開い
 
 入手は Microsoft Store を予定しています。ストア公開前のファイルは [Releases](../../releases) の `Simple Java Property Editor.exe` です。この EXE は未署名です。
 
+[プライバシーポリシー](docs/privacy.html)
+
+[プライバシーポリシー](docs/privacy.html)
+
 ## できること
 
 - `.properties` を開く、上書き保存する、名前を付けて保存する
