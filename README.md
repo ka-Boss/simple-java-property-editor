@@ -26,8 +26,4 @@ Java の `.properties` ファイルを、文字として読める状態で開い
 
 ## 起動時の注意
 
-未署名の EXE は、Windows が起動を止めることがあります。署名付きで配るのは Microsoft Store の MSIX です。
-
-## ビルド
-
-EXE は GitHub Actions の `Build` ワークフローが作ります。`master` への push で、64 ビット Windows 向けの単一ファイルを出力します。MSIX も同じワークフローが作ります。
+Releases の EXE は未署名です。Windows が起動を止めることがあります。
