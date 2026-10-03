@@ -6,9 +6,7 @@ Java の `.properties` ファイルを、文字として読める状態で開い
 
 64 ビット版の Windows で動きます。.NET のインストールは不要です。
 
-入手は Microsoft Store を予定しています。ストア公開前のファイルは [Releases](../../releases) の `Simple Java Property Editor.exe` です。この EXE は未署名です。
-
-[プライバシーポリシー](docs/privacy.html)
+[![Microsoft Store から入手](https://get.microsoft.com/images/ja-jp%20dark.svg)](https://apps.microsoft.com/detail/9ppclgjm1tmv?mode=direct)
 
 [プライバシーポリシー](docs/privacy.html)
 
@@ -28,6 +26,4 @@ Java の `.properties` ファイルを、文字として読める状態で開い
 
 文字コードは、画面下の「文字コード」から切り替えます。ファイルを開いたあとで選ぶと、その文字コードで読み直します。
 
-## 起動時の注意
 
-Releases の EXE は未署名です。Windows が起動を止めることがあります。
